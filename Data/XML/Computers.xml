@@ -1,0 +1,17 @@
+<Computers>
+	<Computer>
+		<Name>Server1</Name>
+		<Ip>127.0.0.1</Ip>
+		<Include>true</Include>
+	</Computer>	
+	<Computer>
+		<Name>Server2</Name>
+		<Ip>192.168.0.102</Ip>
+		<Include>false</Include>
+	</Computer>	
+	<Computer>
+		<Name>Server3</Name>
+		<Ip>192.168.0.103</Ip>
+		<Include>true</Include>
+	</Computer>	
+</Computers>
